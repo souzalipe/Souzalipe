@@ -1,4 +1,4 @@
-<h1 align="left"></h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0a43&height=120&section=header"/>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Statos :</h3>
 
 ###
 
@@ -69,4 +69,4 @@
 </div>
 
 ###
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0a43&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0a43&height=120&section=header"/>
