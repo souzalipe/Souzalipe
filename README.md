@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">🔭 Trabalhando com <br> 📚 Sempre aprendendo<br> ⚡ Vivendo a Tecnologia</p>
+<p align="left">📚 cursando Análise e Desenvolvimento de Sistemas na UNISUAM <br> além de estár concluindo meus estudos em desenvolvimento Full-Stack na Programadores do Amanhã.
 
 ###
 
@@ -51,21 +51,13 @@
 
 ###
 
-<h3 align="left">🔥   My Statos :</h3>
+<h3 align="left"> 📈 Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=souzalipe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=souzalipe&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Souza">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Souza&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
