@@ -1,4 +1,4 @@
-![Wellcome](https://capsule-render.vercel.app/api?type=waving&height=200&text=Wellcome!&fontAlign=60&fontAlignY=40&color=2c0a43&fontColor=ffffff)
+![Wellcome](https://capsule-render.vercel.app/api?type=waving&height=200&text=Wellcome!&fontAlign=70&fontAlignY=40&color=2c0a43&fontColor=ECE8D5)
 
 ###
 
@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/felipe-nascimento-souza/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=582774&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
+
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=582774&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
