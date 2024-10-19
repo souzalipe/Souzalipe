@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Wellcome&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44&fontColor=ECE8D5&color=2c0a43)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Wellcome&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44&fontColor=ECE8D5&)
 
 
 ###
