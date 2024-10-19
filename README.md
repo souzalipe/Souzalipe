@@ -1,4 +1,4 @@
-![Wellcome](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=2c0a43)
+![Wellcome](https://capsule-render.vercel.app/api?type=waving&height=200&text=Wellcome!&fontAlign=80&fontAlignY=40&color=2c0a43)
 
 ###
 
