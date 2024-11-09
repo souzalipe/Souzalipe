@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 cursando Análise e Desenvolvimento de Sistemas na UNISUAM <br> além de estár concluindo meus estudos em desenvolvimento Full-Stack na Programadores do Amanhã.
+<p align="left">📚 cursando Análise e Desenvolvimento de Sistemas na UNISUAM <br> além de ter concluido meus estudos em desenvolvimento Full-Stack na Programadores do Amanhã.
 
 ###
 
