@@ -1,7 +1,8 @@
 ![Wellcome](https://capsule-render.vercel.app/api?type=waving&height=200&text=Wellcome!&fontAlign=70&fontAlignY=40&color=2c0a43&fontColor=ffffff)
 
 ###
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=003497&width=435&lines=Hy+I'm+Felipe+Nascimento+)](https://git.io/typing-svg)
+##
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-nascimento-souza/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=582774&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
