@@ -1,7 +1,4 @@
 ![Wellcome](https://capsule-render.vercel.app/api?type=waving&height=200&text=Wellcome!&fontAlign=70&fontAlignY=40&color=2c0a43&fontColor=ffffff)
-
-###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=003497&width=435&lines=Hy+I'm+Felipe+Nascimento+)](https://git.io/typing-svg)
 ##
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-nascimento-souza/" target="_blank">
@@ -19,7 +16,7 @@
 
 ###
 
-<p align="left">📚Olá, sou Felipe Nascimento, desenvolvedor Full-Stack.
+<p align="left">Olá, sou Felipe Nascimento, desenvolvedor Full-Stack.
 
 Estou no 4º período de Análise e Desenvolvimento de Sistemas na UNISUAM e conclui meus estudos na Programadores do Amanhã. Tenho experiência com React, HTML, CSS, JavaScript, Python, Angular e PHP, além de trabalhar com APIs utilizando Node.js e Express.
 
