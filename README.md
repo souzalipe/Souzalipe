@@ -19,7 +19,15 @@
 
 ###
 
-<p align="left">📚 cursando Análise e Desenvolvimento de Sistemas na UNISUAM <br> além de ter concluido meus estudos em desenvolvimento Full-Stack na Programadores do Amanhã.
+<p align="left">📚Olá, sou Felipe Nascimento, desenvolvedor Full-Stack.
+
+Estou no 4º período de Análise e Desenvolvimento de Sistemas na UNISUAM e conclui meus estudos na Programadores do Amanhã. Tenho experiência com React, HTML, CSS, JavaScript, Python, Angular e PHP, além de trabalhar com APIs utilizando Node.js e Express.
+
+Fui líder de equipes tanto na faculdade quanto no programa Programadores do Amanhã, onde alcançamos bons resultados ao distribuir tarefas de forma eficiente e aproveitar as habilidades de cada integrante. Sou proativo, comunicativo e tenho inglês intermediário.
+
+Meu objetivo é continuar me desenvolvendo e ganhando mais experiência em projetos. Caso queira saber mais sobre mim, sinta-se à vontade para entrar em contato.
+
+Email: fn23886@gmail.com</p>
 
 ###
 
