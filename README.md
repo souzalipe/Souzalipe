@@ -1,7 +1,5 @@
 <img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0a43&height=120&section=header"/>
 
-###H
-
 <h2>Hello, I'm Felipe 👋🏾</h2>
 
 ###
