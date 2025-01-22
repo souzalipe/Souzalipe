@@ -5,29 +5,29 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-nascimento-souza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=582774&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=582774&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=582774&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=582774&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre</h3>
+<h3 align="left">About</h3>
 
 ###
 
-<p align="left">Olá, sou Felipe Nascimento, desenvolvedor Full-Stack.
+<p align="left"Hello, I'm Felipe Nascimento, Full-Stack developer.
 
-Estou no 4º período de Análise e Desenvolvimento de Sistemas na UNISUAM e conclui meus estudos na Programadores do Amanhã. Tenho experiência com React, HTML, CSS, JavaScript, Python, Angular e PHP, além de trabalhar com APIs utilizando Node.js e Express.
+I am in the 4th period of Systems Analysis and Development at UNISUAM and completed my studies at Programadores do Ajante. I have experience with React, HTML, CSS, JavaScript, Python, Angular and PHP, as well as working with APIs using Node.js and Express.
 
-Fui líder de equipes tanto na faculdade quanto no programa Programadores do Amanhã, onde alcançamos bons resultados ao distribuir tarefas de forma eficiente e aproveitar as habilidades de cada integrante. Sou proativo, comunicativo e tenho inglês intermediário.
+I was a team leader both at college and in the Programmers of Tomorrow program, where we achieved good results by distributing tasks efficiently and taking advantage of the skills of each member. I am proactive, communicative and have intermediate English.
 
-Meu objetivo é continuar me desenvolvendo e ganhando mais experiência em projetos. Caso queira saber mais sobre mim, sinta-se à vontade para entrar em contato.
+My goal is to continue developing myself and gaining more experience in projects. If you want to know more about me, feel free to get in touch.
 
-Email: fn23886@gmail.com</p>
+Email: fn23886@gmail.com<</p>
 
 ###
 
