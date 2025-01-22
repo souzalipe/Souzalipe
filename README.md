@@ -1,7 +1,8 @@
 <img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0a43&height=120&section=header"/>
-##
 
 ### Hello, I'm Felipe 👋🏾
+
+###
 
 <div>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbo" target="_blank">
@@ -55,5 +56,5 @@ Email: fn23886@gmail.com</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
+
 <img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0a43&height=120&section=footer"/>
