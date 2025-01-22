@@ -23,11 +23,11 @@ I was a team leader both at college and in the Programmers of Tomorrow program, 
 
 My goal is to continue developing myself and gaining more experience in projects. If you want to know more about me, feel free to get in touch.
 
-Email: fn23886@gmail.com<</p>
+Email: fn23886@gmail.com</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens</h3>
+<h3 align="left">languagens</h3>
 
 ###
 
