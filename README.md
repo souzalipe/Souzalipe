@@ -1,4 +1,4 @@
-![Wellcome](https://capsule-render.vercel.app/api?type=waving&height=200&text=Wellcome!&fontAlign=70&fontAlignY=40&color=2c0a43&fontColor=ffffff)
+<img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0a43&height=120&section=header"/>
 ##
 
 ### Hello, I'm Felipe 👋🏾
@@ -53,16 +53,6 @@ Email: fn23886@gmail.com<</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h3 align="left"> 📈 Stats :</h3>
-
-###
-
-<div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=souzalipe&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
