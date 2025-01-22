@@ -3,13 +3,9 @@
 
 ### Hello, I'm Felipe 👋🏾
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/felipe-nascimento-souza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=souza=souza&label=&color=582774&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-
+<div>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=582774&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=fn23886@gmail.com&label=&color=582774&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
 
