@@ -59,7 +59,7 @@ Email: fn23886@gmail.com</p>
 <p align="left" style="background:2c0a43">
 
 <a href="https://www.linkedin.com/in/felipe-nascimentodev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/felipe-nascimentodev/?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-souzalipe-05122A?style=flat&logo=gmail" alt="gmail"/>
