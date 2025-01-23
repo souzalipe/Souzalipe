@@ -5,9 +5,7 @@
 ###
 
 <div>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=fn23886@gmail.com&label=&color=582774&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=souzalipe&color=2c0a43&height=30" alt="Profile views" /> </p>
 </div>
 
 ###
