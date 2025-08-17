@@ -16,7 +16,7 @@
 
 <p align="left"Hello, I'm Felipe Nascimento, Full-Stack developer.
 
-I am in the 4th period of Systems Analysis and Development at UNISUAM and completed my studies at Programadores do Ajante. I have experience with React, HTML, CSS, JavaScript, Python, Angular and PHP, as well as working with APIs using Node.js and Express.
+I am in the 5th period of Systems Analysis and Development at UNISUAM and completed my studies at Programadores do Ajante. I have experience with React, HTML, CSS, JavaScript, Python, Angular and PHP, as well as working with APIs using Node.js and Express.
 
 I was a team leader both at college and in the Programmers of Tomorrow program, where we achieved good results by distributing tasks efficiently and taking advantage of the skills of each member. I am proactive, communicative and have intermediate English.
 
