@@ -1,6 +1,6 @@
 <img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0a43&height=120&section=header"/>
 
-<h2>Hy, I'm Felipe <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h2>
+<h2>Olá, Me chamo Felipe <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h2>
 
 ###
 
@@ -16,11 +16,17 @@
 
 <p align="left"Hello, I'm Felipe Nascimento, Full-Stack developer.
 
-I am in the 5th period of Systems Analysis and Development at UNISUAM and completed my studies at Programadores do Ajante. I have experience with React, HTML, CSS, JavaScript, Python, Angular and PHP, as well as working with APIs using Node.js and Express.
+Atualmente, estou no 5º período do curso de Análise e Desenvolvimento de Sistemas na UNISUAM e concluí o programa de Desenvolvimento Web Full Stack “Programadores do Amanhã”.
 
-I was a team leader both at college and in the Programmers of Tomorrow program, where we achieved good results by distributing tasks efficiently and taking advantage of the skills of each member. I am proactive, communicative and have intermediate English.
+Tenho experiência com Python, SQL, Power BI, React, HTML, CSS, JavaScript, Angular e PHP, além de desenvolvimento e integração de APIs usando Node.js e Express.
 
-My goal is to continue developing myself and gaining more experience in projects. If you want to know more about me, feel free to get in touch.
+Atualmente, trabalho no Banco do Brasil como estagiário de TI, onde desenvolvo soluções de automação em Python e dashboards de análise de dados em Power BI, aplicando metodologias ágeis e Scrum em projetos reais. Um dos meus principais projetos envolve a automação de atas financeiras, reduzindo o tempo de processamento de 1 hora e 30 minutos para menos de 1 minuto.
+
+Fui também líder de equipe tanto na faculdade quanto no programa Programadores do Amanhã, coordenando equipes de desenvolvimento, organizando reuniões diárias e distribuindo tarefas de forma eficiente de acordo com as habilidades de cada membro.
+
+Sou proativo, comunicativo e apaixonado por tecnologia e análise de dados. Meu objetivo é continuar aprimorando minhas habilidades e contribuindo para projetos impactantes e orientados por dados.
+
+Se quiser saber mais sobre meu trabalho ou colaborar em novas ideias, fique à vontade para entrar em contato.
 
 Email: fn23886@gmail.com</p>
 
