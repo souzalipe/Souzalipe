@@ -14,21 +14,17 @@
 
 ###
 
-<p align="left"Hello, I'm Felipe Nascimento, Full-Stack developer.
+<p align="left">Hello, I'm Felipe Nascimento, Full-Stack developer.
 
-Atualmente, estou no 5º período do curso de Análise e Desenvolvimento de Sistemas na UNISUAM e concluí o programa de Desenvolvimento Web Full Stack “Programadores do Amanhã”.
+Olá, sou Felipe Nascimento, formado em Análise e Desenvolvimento de Sistemas, com experiência em automação de processos, dados e desenvolvimento de soluções inteligentes.
 
-Tenho experiência com Python, SQL, Power BI, React, HTML, CSS, JavaScript, Angular e PHP, além de desenvolvimento e integração de APIs usando Node.js e Express.
+Atuei no Banco do Brasil com Python, SQL e JavaScript, desenvolvendo automações e agentes de inteligência artificial que reduziram significativamente o tempo de processos internos. Tenho vivência em metodologias ágeis (Scrum e Kanban) e integração entre equipes.
 
-Atualmente, trabalho no Banco do Brasil como estagiário de TI, onde desenvolvo soluções de automação em Python e dashboards de análise de dados em Power BI, aplicando metodologias ágeis e Scrum em projetos reais. Um dos meus principais projetos envolve a automação de atas financeiras, reduzindo o tempo de processamento de 1 hora e 30 minutos para menos de 1 minuto.
+Sou proativo, comunicativo e orientado a resultados, com foco em transformar processos manuais em soluções eficientes.
 
-Fui também líder de equipe tanto na faculdade quanto no programa Programadores do Amanhã, coordenando equipes de desenvolvimento, organizando reuniões diárias e distribuindo tarefas de forma eficiente de acordo com as habilidades de cada membro.
+Aberto a novas oportunidades e desafios em tecnologia.
 
-Sou proativo, comunicativo e apaixonado por tecnologia e análise de dados. Meu objetivo é continuar aprimorando minhas habilidades e contribuindo para projetos impactantes e orientados por dados.
-
-Se quiser saber mais sobre meu trabalho ou colaborar em novas ideias, fique à vontade para entrar em contato.
-
-Email: fn23886@gmail.com</p>
+Contato: fn23886@gmail.com</p>
 
 ###
 
